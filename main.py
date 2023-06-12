@@ -80,7 +80,7 @@ if selected == "Home":
         st.markdown("## Fitness influencers have different perspectives on what's considered an :blue[\"Optimal\"] workout style for hypertrophy. \n\n### This A.I tool \
                     will help you customize your workouts based on your favourite Fitness influencer! your inputs will be converted into a workout based on information collected from influencers such as :blue[TNF, JPG Coaching], and many more [coming soon...]. \n\n This tool \
                     is powered by [LangChain](https://langchain.com/) and [OpenAI](https://openai.com) and made by \
-                    [@HMasarani](https://linkedin.com/in/hmasarani). \n\n View Source Code on [Github](https://github.com/gkamradt/globalize-text-streamlit/blob/main/main.py)")
+                    [@HMasarani](https://linkedin.com/in/hmasarani). \n\n View Source Code on [Github](https://github.com/hmasarani/BodybuilderAI/blob/main/main.py)")
 
     with col2:
         st.image(image='TNF.jpg', width=500, caption='TNF')
