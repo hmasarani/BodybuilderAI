@@ -3,7 +3,6 @@ from langchain import PromptTemplate
 from langchain.llms import OpenAI
 from streamlit_option_menu import option_menu
 import time
-import os
 
 
 template = """
